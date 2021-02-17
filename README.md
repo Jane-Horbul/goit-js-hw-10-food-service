@@ -1,2 +1,2 @@
-# goit-js-hw-10-food-service
-Библиотеки. Шаблонизация. JSON. WebStorage
+# js-10-food-service
+https://a-malyas.github.io/js-10-food-service
